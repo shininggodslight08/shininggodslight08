@@ -1,7 +1,7 @@
 <!DOCTYPE htnml>
 <htnl lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <title>Jason Boswell's Portfoilio</title>
   </head>
     <main>
