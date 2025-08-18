@@ -2,6 +2,7 @@
 <htnl lang="en">
   <head>
     <meta charset="utf-8">
+    <title>Jason Boswell's Portfoilio</title>
   </head>
     <main>
      <h1>Jason Boswell</h1>
