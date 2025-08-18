@@ -1,5 +1,5 @@
 <!DOCTYPE htnml>
-<htnl>
+<htnl lan="en">
   <head>
     <meta charset="utf-8">
   </head>
